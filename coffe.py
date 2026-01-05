@@ -1,6 +1,6 @@
 import os
 
-restaurante = [{'nome': 'Coco bambu', 'categoria': 'frutos do mar', 'ativo': False},
+restaurante = [{'nome': 'Mc Donald s', 'categoria': 'frutos do mar', 'ativo': False},
                {'nome': 'Belas artes', 'categoria': 'padaria', 'ativo': True},
                {'nome': 'Outback', 'categoria': 'carne', 'ativo': False}]
 
