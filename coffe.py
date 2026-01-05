@@ -1,6 +1,6 @@
 import os
 
-restaurante = [{'nome': 'Mc Donald s', 'categoria': 'frutos do mar', 'ativo': False},
+restaurante = [{'nome': 'Coco Bambu', 'categoria': 'frutos do mar', 'ativo': False},
                {'nome': 'Belas artes', 'categoria': 'padaria', 'ativo': True},
                {'nome': 'Outback', 'categoria': 'carne', 'ativo': False}]
 
@@ -11,7 +11,7 @@ def opcoes():
     print('𝟭. 𝗖𝗮𝗱𝗮𝘀𝘁𝗿𝗮𝗿 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝗲')
     print('𝟮. 𝗟𝗶𝘀𝘁𝗮𝗿 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝗲𝘀')
     print('𝟯. 𝗔𝗹𝘁𝗲𝗿𝗻𝗮𝗿 𝗲𝘀𝘁𝗮𝗱𝗼 𝗱𝗼 𝗿𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝗲')
-    print('𝟰. 𝗦𝗮𝗶𝗿\n')
+    print('4. 𝗦𝗮𝗶𝗿\n')
 
 
 def voltar_ao_menu():
